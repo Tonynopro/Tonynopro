@@ -1,3 +1,12 @@
+<!--
+  BANNER: save your image as assets/banner.png in this same repository
+  (recommended size: 1280x320 px) and it will show up here automatically.
+  You can also swap the path for any image URL.
+-->
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Tony</h1>
 
 <p align="center">
@@ -11,14 +20,11 @@
   <a href="mailto:tony.suarez1002@gmail.com"><img src="https://img.shields.io/badge/Email-tony.suarez1002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-```bash
-tony@portfolio:~$ whoami
-Ricardo Antonio Suarez Perez · "Tony"
-
-tony@portfolio:~$ cat about-me.txt
-I'm driven by solving real problems.
-I prefer code that works over theory that impresses.
-```
+<p align="center">
+  <a href="https://tonysuarez-dev.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00E58F&background=0C0E0D&center=true&vCenter=true&width=640&height=80&lines=tony%40portfolio%3A~%24+whoami;Ricardo+Antonio+Suarez+Perez+%22Tony%22;Full+Stack+Developer;Web+%7C+Mobile+%7C+Games;I+prefer+code+that+works+over+theory+that+impresses" alt="Typing animation">
+  </a>
+</p>
 
 ---
 
